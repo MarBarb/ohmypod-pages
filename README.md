@@ -1,4 +1,4 @@
-# OhMyPod GitHub Pages Site
+# RingPlayer GitHub Pages Site
 
 This folder contains a minimal public website for App Store Connect metadata.
 
@@ -11,7 +11,7 @@ Recommended App Store Connect URLs after publishing as a project page:
 
 Recommended setup:
 
-1. Create a new public GitHub repository, for example `ohmypod-pages`.
+1. Create a new public GitHub repository, for example `ringplayer-pages`.
 2. Upload the contents of this folder to the repository root.
 3. In GitHub, open `Settings > Pages`.
 4. Set source to `Deploy from a branch`.
